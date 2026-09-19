@@ -1,0 +1,21 @@
+{
+  "name": "@alphapark/accio-work-orchestrator-skill",
+  "version": "1.0.0",
+  "description": "GenPark AI Agent Skill - Distilled Accio Work agentic business team orchestrator",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Ready\""
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.0"
+  },
+  "keywords": [
+    "genpark",
+    "accio-work",
+    "agentic-team",
+    "browser-automation",
+    "mcp"
+  ]
+}
